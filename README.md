@@ -4,8 +4,6 @@
 
 ### Add instruction panel
 
-![image-20201127175322824](/Users/wangxiaobei/Library/Application Support/typora-user-images/image-20201127175322824.png)
-
 + Animation track
 + Audio track
 + Activation track
